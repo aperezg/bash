@@ -1,5 +1,5 @@
 #Personal aliases
-alias develop-sites='cd /home/aperez/Develop/sites'
+alias develop-sites='cd ~/Develop/sites'
 alias ..='cd ..'
 alias lsa='ls -a'
 alias rmdir='rm -r'
